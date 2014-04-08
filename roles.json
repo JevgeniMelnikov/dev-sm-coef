@@ -240,7 +240,8 @@
 		},
 		"Kog'Maw": {
 			"roles": {
-				"adc": 1.0
+				"adc": 1.0,
+				"mid": 0.8
 			}
 		},
 		"LeBlanc": {
@@ -406,7 +407,8 @@
 		},
 		"Riven": {
 			"roles": {
-				"top": 1.0
+				"top": 1.0,
+				"mid": 0.8
 			}
 		},
 		"Rumble": {
@@ -437,7 +439,8 @@
 		},
 		"Shyvana": {
 			"roles": {
-				"top": 1.0
+				"top": 1.0,
+				"jun": 0.8
 			}
 		},
 		"Singed": {
@@ -607,7 +610,8 @@
 		},
 		"Yasuo": {
 			"roles": {
-				"mid": 1.0
+				"mid": 1.0,
+				"top": 0.8
 			}
 		},
 		"Yorick": {
