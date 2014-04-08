@@ -1,0 +1,649 @@
+{
+	"data": {
+		"Aatrox": {
+			"roles": {
+				"top": 1.0,
+				"jun": 0.8
+			}
+		},
+		"Ahri": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Akali": {
+			"roles": {
+				"mid": 1.0,
+				"top": 0.8
+			}
+		},
+		"Alistar": {
+			"roles": {
+				"sup": 1.0
+			}
+		},
+		"Amumu": {
+			"roles": {
+				"jun": 1.0
+			}
+		},
+		"Anivia": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Annie": {
+			"roles": {
+				"sup": 1.0,
+				"mid": 0.8
+			}
+		},
+		"Ashe": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"Blitzcrank": {
+			"roles": {
+				"sup": 1.0
+			}
+		},
+		"Brand": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Caitlyn": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"Cassiopeia": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Cho'Gath": {
+			"roles": {
+				"jun": 0.8,
+				"top": 1.0
+			}
+		},
+		"Corki": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"Darius": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Diana": {
+			"roles": {
+				"mid": 1.0,
+				"jun": 0.8
+			}
+		},
+		"Dr. Mundo": {
+			"roles": {
+				"top": 1.0,
+				"jun": 0.8
+			}
+		},
+		"Draven": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"Elise": {
+			"roles": {
+				"jun": 1.0,
+				"top": 0.8
+			}
+		},
+		"Evelynn": {
+			"roles": {
+				"jun": 1.0
+			}
+		},
+		"Ezreal": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"Fiddlesticks": {
+			"roles": {
+				"sup": 1.0,
+				"mid": 0.8,
+				"jun": 0.8
+			}
+		},
+		"Fiora": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Fizz": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Galio": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Gangplank": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Garen": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Gragas": {
+			"roles": {
+				"mid": 1.0,
+				"top": 0.8
+			}
+		},
+		"Graves": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"Hecarim": {
+			"roles": {
+				"jun": 1.0
+			}
+		},
+		"Heimerdinger": {
+			"roles": {
+				"mid": 1.0,
+				"top": 0.8
+			}
+		},
+		"Irelia": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Janna": {
+			"roles": {
+				"sup": 1.0
+			}
+		},
+		"Jarvan IV": {
+			"roles": {
+				"jun": 1.0,
+				"top": 0.8
+			}
+		},
+		"Jax": {
+			"roles": {
+				"top": 1.0,
+				"jun": 0.8
+			}
+		},
+		"Jayce": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Jinx": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"Karma": {
+			"roles": {
+				"sup": 1.0,
+				"mid": 0.8
+			}
+		},
+		"Karthus": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Kassadin": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Katarina": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Kayle": {
+			"roles": {
+				"mid": 1.0,
+				"top": 0.8
+			}
+		},
+		"Kennen": {
+			"roles": {
+				"mid": 0.8,
+				"top": 1.0
+			}
+		},
+		"KhaZix": {
+			"roles": {
+				"mid": 0.8,
+				"top": 0.8,
+				"jun": 1.0
+			}
+		},
+		"Kog'Maw": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"LeBlanc": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Lee Sin": {
+			"roles": {
+				"jun": 1.0,
+				"top": 0.8
+			}
+		},
+		"Ahri": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Leona": {
+			"roles": {
+				"sup": 1.0
+			}
+		},
+		"Lissandra": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Lucian": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"Lulu": {
+			"roles": {
+				"sup": 0.8,
+				"mid": 1.0
+			}
+		},
+		"Lux": {
+			"roles": {
+				"mid": 1.0,
+				"sup": 0.8
+			}
+		},
+		"Malphite": {
+			"roles": {
+				"top": 1.0,
+				"mid": 0.8,
+				"jun": 0.8
+			}
+		},
+		"Malzahar": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Maokai": {
+			"roles": {
+				"jun": 1.0
+			}
+		},
+		"Master Yi": {
+			"roles": {
+				"top": 1.0,
+				"jun": 0.8
+			}
+		},
+		"Miss Fortune": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"Mordekaiser": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Morgana": {
+			"roles": {
+				"mid": 0.8,
+				"sup": 1.0
+			}
+		},
+		"Nami": {
+			"roles": {
+				"sup": 1.0
+			}
+		},
+		"Nasus": {
+			"roles": {
+				"jun": 0.8,
+				"top": 1.0
+			}
+		},
+		"Nautilus": {
+			"roles": {
+				"jun": 1.0
+			}
+		},
+		"Nidalee": {
+			"roles": {
+				"top": 0.8,
+				"mid": 1.0,
+				"sup": 0.8
+			}
+		},
+		"Nocturne": {
+			"roles": {
+				"jun": 1.0
+			}
+		},
+		"Nunu": {
+			"roles": {
+				"jun": 1.0
+			}
+		},
+		"Olaf": {
+			"roles": {
+				"jun": 0.8,
+				"top": 1.0
+			}
+		},
+		"Orianna": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Pantheon": {
+			"roles": {
+				"mid": 1.0,
+				"top": 0.8,
+				"jun": 0.8
+			}
+		},
+		"Poppy": {
+			"roles": {
+				"top": 1.0,
+				"jun": 0.8
+			}
+		},
+		"Quinn": {
+			"roles": {
+				"adc": 1.0,
+				"top": 0.8
+			}
+		},
+		"Rammus": {
+			"roles": {
+				"jun": 1.0
+			}
+		},
+		"Renekton": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Rengar": {
+			"roles": {
+				"top": 1.0,
+				"jun": 0.8
+			}
+		},
+		"Riven": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Rumble": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Ryze": {
+			"roles": {
+				"mid": 1.0,
+				"top": 0.8
+			}
+		},
+		"Sejuani": {
+			"roles": {
+				"jun": 1.0
+			}
+		},
+		"Shaco": {
+			"roles": {
+				"jun": 1.0
+			}
+		},
+		"Shen": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Shyvana": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Singed": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Sion": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Sivir": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"Skarner": {
+			"roles": {
+				"jun": 1.0
+			}
+		},
+		"Sona": {
+			"roles": {
+				"sup": 1.0
+			}
+		},
+		"Soraka": {
+			"roles": {
+				"sup": 1.0
+			}
+		},
+		"Swain": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Syndra": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Talon": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Taric": {
+			"roles": {
+				"sup": 1.0
+			}
+		},
+		"Teemo": {
+			"roles": {
+				"top": 1.0,
+				"mid": 0.8
+			}
+		},
+		"Thresh": {
+			"roles": {
+				"sup": 1.0
+			}
+		},
+		"Tristana": {
+			"roles": {
+				"adc": 1.0,
+				"mid": 0.8
+			}
+		},
+		"Trundle": {
+			"roles": {
+				"jun": 0.8,
+				"top": 1.0
+			}
+		},
+		"Tryndamere": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Twisted Fate": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Twitch": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"Udyr": {
+			"roles": {
+				"jun": 1.0,
+				"top": 0.8
+			}
+		},
+		"Urgot": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"Varus": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"Vayne": {
+			"roles": {
+				"adc": 1.0
+			}
+		},
+		"Veigar": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Vel'Koz": {
+			"roles": {
+				"mid": 1.0,
+				"sup": 0.8
+			}
+		},
+		"Vi": {
+			"roles": {
+				"jun": 1.0,
+				"top": 0.8
+			}
+		},
+		"Viktor": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Vladimir": {
+			"roles": {
+				"mid": 0.8,
+				"top": 1.0
+			}
+		},
+		"Volibear": {
+			"roles": {
+				"jun": 0.8,
+				"top": 1.0
+			}
+		},
+		"Warwick": {
+			"roles": {
+				"top": 1.0,
+				"jun": 0.8
+			}
+		},
+		"Wukong": {
+			"roles": {
+				"top": 0.8,
+				"jun": 1.0
+			}
+		},
+		"Xerath": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Xin Zhao": {
+			"roles": {
+				"jun": 1.0
+			}
+		},
+		"Yasuo": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Yorick": {
+			"roles": {
+				"top": 1.0
+			}
+		},
+		"Zac": {
+			"roles": {
+				"jun": 0.8,
+				"top": 1.0
+			}
+		},
+		"Zed": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Ziggs": {
+			"roles": {
+				"mid": 1.0
+			}
+		},
+		"Zilean": {
+			"roles": {
+				"mid": 1.0,
+				"sup": 0.8
+			}
+		},
+		"Zyra": {
+			"roles": {
+				"sup": 1.0,
+				"mid": 0.8
+			}
+		}
+	},
+	"type": "roles",
+	"version": "0.0.2"
+}
